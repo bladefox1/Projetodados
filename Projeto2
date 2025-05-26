@@ -1,0 +1,4 @@
+aluno = 123
+var = 3 
+
+print(aluno*var)
